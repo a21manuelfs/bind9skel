@@ -6,6 +6,7 @@
 ![Captura_checkconfig](checkconf_checkzone.png)
 
 **Salida ejercicio 1**
+
 ![captura1-dig](dig-xunta.edu2.png)
 
 ### 2- Configura o servidor BIND9 para que empregue como reenviador 8.8.8.8. pegando no documento de entrega contido do ficheiro /etc/bind/named.conf.options e a saída deste comando: dig @localhost www.mecd.gob.es 
@@ -14,7 +15,6 @@
 ![named.conf.options](named.conf.options.png)
 
 **Salida del comando del fichero**
-
 ![gov](gov.png)
 
 ### 3- Instala unha zona primaria de resolución directa chamada "starwars.lan" e engade os seguintes rexistros de recursos (a maiores dos rexistros NS e SOA imprescindibles):

@@ -6,6 +6,8 @@ RUN apt install -y bind9 dnsutils rsyslog
 
 RUN apt clean && rm -rf /var/lib/apt/lists/*
 
+RUN sed 's/OPTIONS=.*/OPTIONS="-u bind -4"/' -i /etc/default/named
+
 COPY entrypoint.sh /entrypoint.sh
 
 RUN chmod +x /entrypoint.sh

@@ -14,6 +14,7 @@
 ![named.conf.options](named.conf.options.png)
 
 **Salida del comando del fichero**
+
 ![gov](gov.png)
 
 ### 3- Instala unha zona primaria de resolución directa chamada "starwars.lan" e engade os seguintes rexistros de recursos (a maiores dos rexistros NS e SOA imprescindibles):

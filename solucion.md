@@ -8,7 +8,7 @@
 **Salida ejercicio 1**
 <<<<<<< HEAD
 
-![captura1-dig](dig-xunta.edu2.png)
+![captura1-dig](imagenes/dig-xunta.edu2.png)
 =======
 ![captura1-dig](imagenes/dig-xunta.edu2.png)
 >>>>>>> 8634a01 (bind9)
